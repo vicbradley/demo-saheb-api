@@ -26,7 +26,7 @@ const PublicRoute = () => {
 
   return (
     <div>
-      <section className="bg-white">
+      <section className="bg-white -mt-4">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-1 gap-8 lg:gap-16">
           <div className="flex flex-col justify-center w-full">
             <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-800 md:text-5xl lg:text-6xl">1. Mengakses Public Route</h1>
